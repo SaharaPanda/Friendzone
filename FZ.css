@@ -1,0 +1,69 @@
+h1 {
+    font-family: 'Bungee Inline', cursive;
+    text-align: center;
+    font-size: 48px;
+    color: rgba(245, 243, 116, 0.877);
+
+}
+h2 {
+    font-family: 'Bungee Inline', cursive;
+    text-align: center;
+    font-size: 28px;
+    color: rgba(245, 243, 116, 0.877);  
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
+
+  .header {
+    padding: 10px 16px;
+    color: #f1f1f1;
+  }
+
+  .content {
+    padding: 16px;
+  }
+
+  .sticky + .content {
+    padding-top: 220px;
+
+  }
+  div.sticky.header{
+text-align: center;
+  }
+  table{
+      text-align: center;
+  }
+  td{
+      width: 300px;
+  }
+
+
+h2, h3 {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+
+img {
+    border-radius: 25px;
+}
+body{
+    text-align: center;
+}
+p {
+    font-family: 'Saira', sans-serif;
+}
+
